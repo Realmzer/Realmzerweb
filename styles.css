@@ -11,3 +11,8 @@ body{
     font-size: 120%;
     border-radius: 10px;
 }
+
+body {
+    background: linear-gradient(45deg, #eee 25%, transparent 25%, transparent 75%, #eee 75%, #eee 100%);
+    background-size: 20px 20px;
+}
